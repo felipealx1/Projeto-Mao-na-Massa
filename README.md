@@ -14,7 +14,6 @@
         
   <h2>Funcionalidades</h2>
         <ul>
-            <li><strong>Inserir Funcionários:</strong> Adiciona uma lista de funcionários com nome, data de nascimento, salário e função.</li>
             <li><strong>Listar Funcionários:</strong> Exibe a lista de nomes dos funcionários.</li>
             <li><strong>Exibir Detalhes do Funcionário:</strong> Permite ao usuário selecionar um funcionário pelo número na lista e exibir todos os seus dados.</li>
         </ul>
