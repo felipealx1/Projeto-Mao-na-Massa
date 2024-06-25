@@ -1,4 +1,4 @@
-# Projeto-Mao-na-Massa.
+# Projeto-Mao-na-Massa
 
 <body>
     <h1>Projeto de Gestão de Funcionários</h1>
